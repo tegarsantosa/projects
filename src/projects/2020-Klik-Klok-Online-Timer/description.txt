@@ -1,0 +1,1 @@
+My experiment to improve my design by creating simple time count app.

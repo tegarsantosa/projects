@@ -1,0 +1,1 @@
+A self experiment to create a console from cardboard to control the car simulator using AI. A documentation article of how I mad it (Indonesia): https://teziger.blogspot.com/2020/12/membuat-stir-game-dari-kardus.html

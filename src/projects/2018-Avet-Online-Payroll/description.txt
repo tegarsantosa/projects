@@ -1,0 +1,1 @@
+An online payroll app, built for smarthackathon competition with my 2 friends (Dhimas and Fanesh). 4th winner in national level.

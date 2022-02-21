@@ -1,0 +1,1 @@
+A self experiment with snake bot using A* algorithm. Open source: https://github.com/mtegarsantosa/snake-astar
