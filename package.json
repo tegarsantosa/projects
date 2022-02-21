@@ -1,0 +1,16 @@
+{
+  "name": "tegarsantosa-projects",
+  "version": "0.0.1",
+  "description": "Screenshot, demo, and description of my project",
+  "main": "index.js",
+  "author": "Tegar Santosa",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.3"
+  }
+}
