@@ -16,10 +16,17 @@ export function getFolders() {
     return data
 }
 
+function externalFile(directoryPath, dir, fileName) {
+    return fs.readFileSync(path.join(directoryPath, dir, fileName), 'utf8').trim()
+           .replace(/\n/g, "<br/>")
+}
+
 export function getFiles(dir) {
     let directoryPath = path.join(__dirname, 'projects')
     let folders = fs.readdirSync(directoryPath)
-    let description = fs.readFileSync(path.join(directoryPath, dir, 'description.txt'), 'utf8').trim()
+    let description = externalFile(directoryPath, dir, 'description.txt')
+    let involvement = externalFile(directoryPath, dir, 'involvement.txt')
+    let stack = externalFile(directoryPath, dir, 'stack.txt')
     if (!(folders.indexOf(dir) > -1)) return {status: false}
     let files = fs.readdirSync(path.join(directoryPath, dir))
     let data = []
@@ -32,6 +39,8 @@ export function getFiles(dir) {
     })
     return {
         description,
+        involvement,
+        stack,
         files: data.filter(function (el) {
             return el.extension === '.png' ||
             el.extension === '.PNG' ||

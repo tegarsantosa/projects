@@ -1,0 +1,4 @@
+- Native PHP
+- Mysql
+- Bootstrap
+- JQuery
