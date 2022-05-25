@@ -1,0 +1,5 @@
+- Laravel
+- Vue JS
+- Node JS
+- JQuery
+- Bootstrap

@@ -1,0 +1,5 @@
+- Laravel
+- Node JS
+- Vue JS
+- AR.js
+- Mysql
