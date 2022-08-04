@@ -1,1 +1,1 @@
-An open-source bell and information web app. Open source: https://github.com/mtegarsantosa/voica
+An open-source bell and information web app. Open source: <a href="https://github.com/mtegarsantosa/voica" target="_blank">voica on github</a>.

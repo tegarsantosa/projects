@@ -1,1 +1,2 @@
-A self experiment to create a console from cardboard to control the car simulator using AI. A documentation article of how I mad it (Indonesia): https://teziger.blogspot.com/2020/12/membuat-stir-game-dari-kardus.html
+A self experiment to create a console from cardboard to control the car simulator using AI. A documentation article of how I made it (Indonesia): <a href="https://teziger.blogspot.com/2020/12/membuat-stir-game-dari-kardus.html
+" target="_blank">click here</a>.

@@ -1,0 +1,4 @@
+- Planing
+- Designing
+- Coding
+- Testing

@@ -1,1 +1,1 @@
-A free NFT dapps, able to mint, transfer, and list nft using any smartchain. Open source: https://github.com/mtegarsantosa/nft-dapps
+A free NFT dapps, able to mint, transfer, and list nft using any smartchain. Open source: <a href="https://github.com/mtegarsantosa/nft-dapps" target="_blank">nft marketplace open source on github</a>.

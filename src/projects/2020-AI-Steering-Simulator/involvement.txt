@@ -1,0 +1,6 @@
+- Planing
+- Designing
+- Coding
+- Testing
+- Deploying
+- Writing Docs

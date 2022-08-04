@@ -1,0 +1,3 @@
+- Planning
+- Smart Contract Creation
+- Minting

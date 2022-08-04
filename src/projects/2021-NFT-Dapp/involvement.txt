@@ -1,0 +1,6 @@
+- Planing
+- Designing
+- Coding
+- Testing
+- Smart Contract Creation
+- Deploying
